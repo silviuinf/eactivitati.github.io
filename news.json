@@ -1,10 +1,29 @@
 {
   "version": "2026-10-15",
   "items": [
-    {
-      "date": "2026-10-15",
-      "title": {"ro": "Versiune nouă eActivitati", "en": "New eActivitati version"},
-      "text": {"ro": "Listă de limbi, butonul Înapoi funcțional și acest ecran de informații.", "en": "Language list, a working Back button and this information screen."}
-    }
+    {"text": {
+      "ro": "Începând cu data de 15 octombrie 2026, casieriile ONRC/ORCT își încetează activitatea.",
+      "en": "Starting 15 October 2026, the ONRC/ORCT cash desks cease their activity."
+    }},
+    {"text": {
+      "ro": "Actualizarea obiectului de activitate potrivit CAEN Rev.3 poate fi realizată până la data de 1 aprilie 2027, în condițiile prevăzute de legislația aplicabilă.",
+      "en": "The business activity can be updated to CAEN Rev.3 until 1 April 2027, under the conditions set by the applicable legislation."
+    }},
+    {"text": {
+      "ro": "Societățile cu răspundere limitată (SRL) au obligația de a-și majora capitalul social în condițiile prevăzute de lege.",
+      "en": "Limited liability companies (SRL) must increase their share capital under the conditions set by law."
+    }},
+    {"text": {
+      "ro": "Achitarea tarifului de publicare în Monitorul Oficial al României, aferent publicității legale, se efectuează exclusiv după admiterea cererii de înregistrare în registrul comerțului.",
+      "en": "The fee for publication in the Official Gazette of Romania, for legal publicity, is paid only after the application for registration in the trade register has been admitted."
+    }},
+    {"text": {
+      "ro": "Începând cu 1 ianuarie 2026 au fost introduse noi criterii de declarare a contribuabililor persoane juridice ca „inactivi fiscali”, dar criteriile pentru declararea inactivității fiscale au rămas neschimbate în privința mandatului administratorilor (a se vedea comunicatul Agenției Naționale de Administrare Fiscală – ANAF din 12 februarie 2026).",
+      "en": "Starting 1 January 2026, new criteria were introduced for declaring legal-entity taxpayers “fiscally inactive”, but the criteria regarding the directors' mandate remained unchanged (see the National Agency for Fiscal Administration – ANAF press release of 12 February 2026)."
+    }},
+    {"text": {
+      "ro": "Conform art. VI alin. (2) din Legea nr. 239/2025, în vigoare de la 18.12.2025, în cazul societăților cu răspundere limitată nou-înființate, valoarea minimă a capitalului social este de 500 lei.",
+      "en": "Under Art. VI(2) of Law no. 239/2025, in force since 18 December 2025, the minimum share capital for newly established limited liability companies is 500 lei."
+    }}
   ]
 }
