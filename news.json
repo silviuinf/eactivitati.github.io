@@ -1,0 +1,10 @@
+{
+  "version": "2026-10-15",
+  "items": [
+    {
+      "date": "2026-10-15",
+      "title": {"ro": "Versiune nouă eActivitati", "en": "New eActivitati version"},
+      "text": {"ro": "Listă de limbi, butonul Înapoi funcțional și acest ecran de informații.", "en": "Language list, a working Back button and this information screen."}
+    }
+  ]
+}
