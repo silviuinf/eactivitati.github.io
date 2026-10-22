@@ -1,9 +1,9 @@
 {
-  "versionCode": 96,
-  "versionName": "1.0.96",
+  "versionCode": 94,
+  "versionName": "1.0.94",
   "notes": {
-    "ro": "Ecran de pornire nou și design îmbunătățit.",
-    "en": "New splash screen and improved design."
+    "ro": "Ecran de pornire nou, butoane pentru copierea și trimiterea listei de favorite, design îmbunătățit.",
+    "en": "New splash screen, buttons to copy and share your favorites list, improved design."
   }
 }
  
