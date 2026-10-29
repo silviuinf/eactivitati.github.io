@@ -1,9 +1,8 @@
 {
-  "versionCode": 94,
-  "versionName": "1.0.94",
+  "versionCode": 97,
+  "versionName": "1.0.97",
   "notes": {
-    "ro": "Ecran de pornire nou, butoane pentru copierea și trimiterea listei de favorite, design îmbunătățit.",
-    "en": "New splash screen, buttons to copy and share your favorites list, improved design."
+    "ro": "Versiunea de lansare în Google Play. In curs de aprobare...",
+    "en": "Release version on Google Play"
   }
-}
- 
+} 
