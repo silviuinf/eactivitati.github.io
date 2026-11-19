@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "1.0.101",
+  "versionCode": 102,
+  "versionName": "1.0.102",
   "notes": {
-    "ro": "Versiune în Google Play",
-    "en": "Release version on Google Play"
+    "ro": "Adaugare referinta cod caen in zona de excludere.",
+    "en": "Add a CAEN code reference to the exclusion area."
   }
 } 
